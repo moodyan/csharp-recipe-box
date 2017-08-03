@@ -1,4 +1,4 @@
-# _Band Tracker_
+# _Recipe Box_
 
 #### _App created for two-day in-class project, C-Sharp - Week Four. Practice using SQL and Advanced Databases. June 15, 2017_
 
