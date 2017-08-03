@@ -18,6 +18,7 @@ _A simple program that allows users to keep track of their recipes._
 6. The program allows users to view all recipes. 
 7. The program allows users to click on recipes and view details.
 8. The program allows users to search recipes by name.
+9. The program allows users to sort recipes by ratings higher than 3.
 
 ## Setup/Installation Requirements
 
